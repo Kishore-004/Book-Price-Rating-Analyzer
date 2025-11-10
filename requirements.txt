@@ -1,5 +1,5 @@
 streamlit==1.39.0
 pandas
-matplotlib
+matplotlib==3.9.2
 beautifulsoup4
 requests
